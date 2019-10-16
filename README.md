@@ -1,6 +1,6 @@
 # Skills - 1
 Click on the link for each tutorial below.  Follow the instructions in the README.md.  Use the walkthrough video to help with understanding and carrying out instructions.
-
+Stephen
 ## Tutorials
 
 1. [HTML: Structure and Semantics](https://github.com/suwebdev/wats3010-skills-1/tree/master/1-html-structure-semantics)  
